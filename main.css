@@ -15,3 +15,10 @@ h2 {
     text-align: center;
     color: #963D97 
 }
+h2 {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #009DDC  
+}
