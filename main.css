@@ -1,7 +1,17 @@
 body {background-color: #17202a} 
 
-h1 {padding-top: 20%;
+h1 {
+    padding-top: 20%;
     padding-bottom: 20%;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    color: #FCB827  }
+    color: #FCB827
+}
+
+h2 {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #963D97 
+}
