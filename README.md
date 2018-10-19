@@ -1,9 +1,9 @@
 # hello-world
-another repo to learn __how it work__
+another repo to learn ___how it work___
 
 *working* **good** !
 et le `markdown` aussi...
 ```python
 print (a+b)
 ```
-> azerty
+> cqfd
