@@ -1,1 +1,7 @@
-body { background-color: #17202a; } 
+body {background-color: #17202a} 
+
+h1 {padding-top: 20%;
+    padding-bottom: 20%;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: #FCB827  }
